@@ -19,7 +19,7 @@
 
 ### 关于作者
 
-作者Karl Seguin是一名在多项技术领域浸淫多年的开发者。他是开源软件计划的活跃贡献者，同时也是一名技术作者以及业余演讲者。他写过若干关于Radis的文章以及一些工具。在他的一个面向业余游戏开发者的免费服务里，Redis为其中的评级和统计功能提供了支持：[mogade.com](http://mogade.com/)。
+作者Karl Seguin是一名在多项技术领域浸淫多年的开发者。他是开源软件计划的活跃贡献者，同时也是一名技术作者以及业余演讲者。他写过若干关于Redis的文章以及一些工具。在他的一个面向业余游戏开发者的免费服务里，Redis为其中的评级和统计功能提供了支持：[mogade.com](http://mogade.com/)。
 
 Karl之前还写了[《The Little MongoDB Book》](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)，这是一本免费且受好评，关于MongoDB的书。
 
